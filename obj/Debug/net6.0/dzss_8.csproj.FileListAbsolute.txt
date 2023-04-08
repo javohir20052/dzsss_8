@@ -1,0 +1,15 @@
+C:\dzss_8\obj\Debug\net6.0\dzss_8.csproj.AssemblyReference.cache
+C:\dzss_8\obj\Debug\net6.0\dzss_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\dzss_8\obj\Debug\net6.0\dzss_8.AssemblyInfoInputs.cache
+C:\dzss_8\obj\Debug\net6.0\dzss_8.AssemblyInfo.cs
+C:\dzss_8\obj\Debug\net6.0\dzss_8.csproj.CoreCompileInputs.cache
+C:\dzss_8\bin\Debug\net6.0\dzss_8.exe
+C:\dzss_8\bin\Debug\net6.0\dzss_8.deps.json
+C:\dzss_8\bin\Debug\net6.0\dzss_8.runtimeconfig.json
+C:\dzss_8\bin\Debug\net6.0\dzss_8.dll
+C:\dzss_8\bin\Debug\net6.0\dzss_8.pdb
+C:\dzss_8\obj\Debug\net6.0\dzss_8.dll
+C:\dzss_8\obj\Debug\net6.0\refint\dzss_8.dll
+C:\dzss_8\obj\Debug\net6.0\dzss_8.pdb
+C:\dzss_8\obj\Debug\net6.0\dzss_8.genruntimeconfig.cache
+C:\dzss_8\obj\Debug\net6.0\ref\dzss_8.dll
